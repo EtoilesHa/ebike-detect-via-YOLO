@@ -1,0 +1,37 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>Snipaste_2024-01-01_12-09-56GaussNoise.jpg</filename>
+	<path>/my-project-name/Snipaste_2024-01-01_12-09-56GaussNoise.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>929</width>
+		<height>411</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>ebike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>295</xmin>
+			<ymin>61</ymin>
+			<xmax>574</xmax>
+			<ymax>405</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>193</xmin>
+			<ymin>2</ymin>
+			<xmax>375</xmax>
+			<ymax>409</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>Snipaste_2024-01-02_10-31-42GaussNoise.jpg</filename>
+	<path>/my-project-name/Snipaste_2024-01-02_10-31-42GaussNoise.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>733</width>
+		<height>866</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>367</xmin>
+			<ymin>351</ymin>
+			<xmax>560</xmax>
+			<ymax>697</ymax>
+		</bndbox>
+	</object>
+</annotation>

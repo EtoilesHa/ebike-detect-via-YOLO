@@ -1,0 +1,37 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>Snipaste_2024-01-01_12-07-52.png</filename>
+	<path>/my-project-name/Snipaste_2024-01-01_12-07-52.png</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>564</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>ebike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>302</xmin>
+			<ymin>183</ymin>
+			<xmax>433</xmax>
+			<ymax>521</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>207</xmin>
+			<ymin>126</ymin>
+			<xmax>320</xmax>
+			<ymax>489</ymax>
+		</bndbox>
+	</object>
+</annotation>
