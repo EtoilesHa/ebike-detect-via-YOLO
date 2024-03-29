@@ -8,7 +8,11 @@
 - 图像检测效果示例：   
   ![image](https://github.com/EtoilesHa/ebike-detect-via-YOLO/assets/100062637/3fea96e2-cd8d-45a7-8a38-07419c773f8e)
 - 视频检测效果示例：
-  https://github.com/EtoilesHa/ebike-detect-via-YOLO/assets/100062637/20b0ad00-e3ac-4e7e-a333-8d8841ddcac0
+  
+
+https://github.com/EtoilesHa/ebike-detect-via-YOLO/assets/100062637/1b2a373e-2ec9-4b06-88fd-daf71d589886
+
+
 
 
 
