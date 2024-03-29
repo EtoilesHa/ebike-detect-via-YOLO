@@ -1,5 +1,4 @@
 
-https://github.com/EtoilesHa/ebike-detect-via-YOLO/assets/100062637/9ce4351e-d756-440d-a6a8-538673e03668
 # ebike-detect-via-YOLO
 
 ### 内容简介： 
@@ -9,5 +8,5 @@ https://github.com/EtoilesHa/ebike-detect-via-YOLO/assets/100062637/9ce4351e-d75
 - 图像检测效果示例：
   ![image](https://github.com/EtoilesHa/ebike-detect-via-YOLO/assets/100062637/3fea96e2-cd8d-45a7-8a38-07419c773f8e)
 - 视频检测效果示例：
-  Uploading WeChat_20240101205718.mp4…
+  https://github.com/EtoilesHa/ebike-detect-via-YOLO/assets/100062637/9ce4351e-d756-440d-a6a8-538673e03668
 
